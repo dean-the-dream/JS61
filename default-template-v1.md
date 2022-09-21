@@ -18,7 +18,7 @@
 
 ## About
 
-The CSS and HTML were provided for me.
+The CSS and HTML, and people. js were provided for me. I was instructed to create a JS file to make the webpage functional.
 
 ## Key Features
 
@@ -27,7 +27,7 @@ The CSS and HTML were provided for me.
 
 ## How To Use
 
-* Run the code in your preferred command line or IDE
+* Click this link https://dean-the-dream.github.io/JS62/
 
 
 
